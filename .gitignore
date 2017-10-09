@@ -1,0 +1,7 @@
+/.idea
+/.vagrant
+/env
+/*.log
+/logs/*
+/translations/*
+*.pyc
