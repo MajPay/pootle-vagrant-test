@@ -43,6 +43,6 @@ scandir==1.5
 six==1.11.0
 stemming==1.0.1
 translate-toolkit==2.2.5
-urllib3==1.22
+urllib3==1.24.2
 webassets==0.12.1
 webencodings==0.5.1
